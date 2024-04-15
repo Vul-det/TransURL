@@ -1,5 +1,5 @@
 # TransURL
-This is an implementation of the [paper](https://arxiv.org/abs/2312.00508).
+This is an implementation of the paper: TransURL:Improving Malicious URL Detection with Multi-layer Transformer Encoding and Multi-scale Pyramid Features
 
 ## Overview
 
